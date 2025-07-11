@@ -1,0 +1,18 @@
+         .container{
+            display: flex;
+            justify-content: center;
+            background-color: beige;
+            height: 100vh;
+            align-items: center;
+        }
+        .box{
+            background-color: rgb(123, 172, 109);
+            color: rgb(224, 39, 101);
+            padding: 20px;
+            border-radius:  10px;;
+            margin: 10px;
+            font-size: 10px;
+
+        }
+
+
